@@ -5,6 +5,8 @@
 * The software/user interface is designed and implemented with Qt Creator
 
 ## Instruction
+* The directionary "code" contains the source code of the system
+* After downloading this repo, one can directly run the "demo2/CAD.exe" file.
 * Mammograms are not included in this repo because of the principle of privacy protection. To use this software, please put mammograms under the directionary "C:\documents"
 
 
