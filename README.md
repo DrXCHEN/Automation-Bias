@@ -3,6 +3,7 @@
 
 ## Enviroment
 * The software/user interface is designed and implemented with Qt Creator
+* It should be runned in the Windows operating system
 
 ## Instruction
 * The directionary "code" contains the source code of the software;
