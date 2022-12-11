@@ -1,5 +1,5 @@
 ## Automation-Bias
-* This repo contains the software and the source code used in the paper "Effect of Artificial Intelligence on Automation Bias in Mammography: A Randomized Experiment"
+* This repo contains the software and the source code used in the manuscripte "Effect of Artificial Intelligence on Automation Bias in Mammography: A Randomized Experiment" (currently under review)
 
 ## Enviroment
 * The software/user interface is designed and implemented with Qt Creator
